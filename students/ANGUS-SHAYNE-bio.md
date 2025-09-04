@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G01
+- Favorite Language: Java
+- One Git Tip Learned: using git status and git commit.
+- GitHub: @ShayVC
